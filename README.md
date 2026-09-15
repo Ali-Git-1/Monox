@@ -273,7 +273,3 @@ Monox یک پروژه Front-End برای نمایش مهارت‌ها در طر�
 Developed by Ali Arabpour
 
 Front-End Developer
-
-📄 License
-
-این پروژه با هدف آموزشی و به عنوان نمونه‌کار توسعه داده شده است.
