@@ -1,0 +1,52 @@
+@import "./base.css";
+
+@font-face {
+  font-family: "Shabnam";
+  src: url("../fonts/shabnam-font-v5.0.1/shabnam-font-v5.0.1/Shabnam.woff2") format("woff2");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Shabnam";
+  src: url("../fonts/shabnam-font-v5.0.1/shabnam-font-v5.0.1/Shabnam-Medium.woff2") format("woff2");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Shabnam";
+  src: url("../fonts/shabnam-font-v5.0.1/shabnam-font-v5.0.1/Shabnam-Bold.woff2") format("woff2");
+  font-weight: 700;
+}
+
+body {
+  direction: rtl;
+  font-family: "Shabnam", sans-serif !important;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: "Shabnam", sans-serif !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  width: 100%;
+  max-width: 1700px;
+  min-height: 100vh;
+  margin: 0 auto;
+}
